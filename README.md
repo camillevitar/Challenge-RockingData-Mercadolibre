@@ -12,4 +12,11 @@ En este caso particular y solo a modo de ejemplo, son resultados para la búsque
 - [ ] Por cada resultado, realizar el correspondiente GET por Item_Id al recurso público: https://api.mercadolibre.com/items/{Item_Id}
 - [ ] Escribir los resultados en un archivo plano delimitado por comas, desnormalizando el JSON obtenido en el paso anterior, en tantos campos como sea necesario para guardar las variables que te interesen modelar.
 
+Python features:
+
+- [ ] Generar un análisis de disciplinas y países.
+- [ ] Generar un análisis descriptivo de los atletas y enriquecer si es posible la informacion con archivos externos al dataset. 
+- [ ] Generar un script de python que cargue la informacion en una base de datos a elección y presentar la estructura de estos datos (realice todas las transformaciones necesarias).
+- [ ] Limpiar los datos. (Hacer lo que consideres necesario para que puedan utilizarse para una predicción). 
+- [ ] Presentarnos el análisis y el trabajo realizado.
 
