@@ -4,7 +4,7 @@ Data analysis challenge
 
 SQL features:
 
-- [] Diseñar un DER del modelo de datos que logre responder cada una de las preguntas mencionadas anteriormente.
+- [ ] Diseñar un DER del modelo de datos que logre responder cada una de las preguntas mencionadas anteriormente.
 - [X] Generar el script DDL para la creación de cada una de las tablas representadas en el DER. Enviarlo con el nombre “create_tables.sql”.
 - [X] Generar el código SQL para responder cada una de las situaciones mencionadas anteriormente sobre el modelo diseñado. Nombre solicitado: “respuestas_negocio.sql”
 - [] Barrer una lista de más de 150 ítems ids en el servicio público: https://api.mercadolibre.com/sites/MLA/search?q=chromecast&limit=50#json
